@@ -9,7 +9,6 @@
 
 <img width="451" alt="image" src="https://github.com/afknapping/vomit-system-by-struthless/assets/170145/a3223937-0587-4822-85e0-c58614f2a03f">
 
-
 ---
 
 ![vent](https://github.com/afknapping/vomit-system-by-struthless/assets/170145/cd7a37fd-8086-4279-b9eb-32e8353cd864)
