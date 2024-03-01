@@ -1,4 +1,8 @@
-# vomit-system-by-struthless
+# The V.O.M.I.T. System by [@struthless](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
+
+
+[![The VOMIT System by struthless](https://github.com/afknapping/vomit-system-by-struthless/assets/170145/fb6d71a5-d13c-4a6d-acad-a6a6e1d3fe82)](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
+
 
 ![cover](https://github.com/afknapping/vomit-system-by-struthless/assets/170145/fb6d71a5-d13c-4a6d-acad-a6a6e1d3fe82)
 
