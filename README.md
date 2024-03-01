@@ -4,9 +4,10 @@
 [![The VOMIT System by struthless](https://github.com/afknapping/vomit-system-by-struthless/assets/170145/fb6d71a5-d13c-4a6d-acad-a6a6e1d3fe82)](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
 
 
-![cover](https://github.com/afknapping/vomit-system-by-struthless/assets/170145/fb6d71a5-d13c-4a6d-acad-a6a6e1d3fe82)
-
 ![journaling is vomiting](https://github.com/afknapping/vomit-system-by-struthless/assets/170145/0ca15d30-6d35-4374-b2ca-85680e34415a)
+
+<img width="451" alt="image" src="https://github.com/afknapping/vomit-system-by-struthless/assets/170145/a3223937-0587-4822-85e0-c58614f2a03f">
+
 
 ---
 
